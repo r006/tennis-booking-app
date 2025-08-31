@@ -1,4 +1,4 @@
-<img width="62" height="48" alt="image" src="https://github.com/user-attachments/assets/3882dbdd-2ab8-4acf-9aaf-0f6a82b420cb" />
+<img width="512" height="512" alt="tennis-ball" src="https://github.com/user-attachments/assets/6eae6590-1eb1-41d2-9168-39d1cc0163d4" />
 
 # tennis-booking-app
 A web app for tennis &amp; pickleball clubs to streamline court bookings. Members can view real-time availability, reserve/cancel courts, and manage invites. Solves “show up &amp; wait” issues, enforces fair 1–2 hr play, and reduces conflicts. MVP: membership verification, 7-day booking view, make/cancel bookings.
